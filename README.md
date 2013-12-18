@@ -1,4 +1,7 @@
-ctfedswebsite
-=============
+ctfeds
+======
 
-ctfeds website
+CTFEDS website
+
+From small beginnings ...
+

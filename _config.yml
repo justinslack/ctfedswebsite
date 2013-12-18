@@ -1,0 +1,9 @@
+name: CTFEDS
+markdown: maruku
+pygments: true
+permalink: pretty
+exclude: [
+	'node_modules',
+  	'Gruntfile.js',
+  	'package.json'
+]
